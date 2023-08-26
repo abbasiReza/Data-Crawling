@@ -31,12 +31,11 @@ Other text-to-image models can also be used.
 The project contains code to:
 
 - Generate adjective-noun text prompts
-- Call text-to-image model APIs
+- use text-to-image model
 - Download images and organize into prompt-named folders 
-- Filter low-quality images
 
 The output is a dataset with categories based on textual descriptions. 
 
 ## References
 
-- [Bing Image Generation API](https://www.bing.com/images/create)
+- [Bing Image Generation model](https://www.bing.com/images/create)
